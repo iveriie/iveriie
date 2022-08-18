@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmonargent0&count_bg=%2395D7DB&title_bg=%23403E4B&icon=tinder.svg&icon_color=%23DBDADA&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=FCEDDA&height=100&section=footer&color=EE4E34)
+![header](https://capsule-render.vercel.app/api?type=wave&color=FCEDDA&height=100&section=footer&color=#EE4E34)
 </div>
