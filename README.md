@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 
 
 
-
+<div align = center>
 
 ---
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmonargent0&count_bg=%2395D7DB&title_bg=%23403E4B&icon=&icon_color=%23DBDADA&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+  </div>
