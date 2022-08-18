@@ -20,10 +20,12 @@ Here are some ideas to get you started:
   Hi! I'm JeoungEun,🐰  <br>
   I want to become a more growing developer!☘️
   
-## Technology Stack
+## ✨Technology Stack✨
 
-## Contact
-
+  
+## 🌹Contact🌹
+메일, 인스타, 
+  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmonargent0%2Fmonargent0&count_bg=%2395D7DB&title_bg=%23403E4B&icon=github.svg&icon_color=%23DBDADA&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=EE4E34&height=100&section=footer)
