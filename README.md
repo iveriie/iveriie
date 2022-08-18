@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <div align = center>
   
-![header](https://capsule-render.vercel.app/api?type=slice&color=0:#FEF9E7,100:#AED6F1&height=200&section=header&text=MY%20CodeWorld&animation=twinkling&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=slice&color=0:#FFA500,100:#ADD8E6&height=200&section=header&text=MY%20CodeWorld&animation=twinkling&fontSize=50)
 
 
 
