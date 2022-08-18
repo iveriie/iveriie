@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **monargent0/monargent0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=정은의%20CodeWorld&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=정은의%20CodeWorld&fontSize=90&animation=fadeIn)
