@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <div align = center>
   
-![header](https://capsule-render.vercel.app/api?type=wave&color=FCEDDA&height=200&section=header&text=Développeur%20en%20croissance&animation=twinkling&fontSize=40&fontColor=EE4E34)
+![header](https://capsule-render.vercel.app/api?type=wave&color=FCEDDA&height=200&section=header&text=𝐷é𝑣𝑒𝑙𝑜𝑝𝑝𝑒𝑢𝑟%20𝑒𝑛%20𝑐𝑟𝑜𝑖𝑠𝑠𝑎𝑛𝑐𝑒&animation=twinkling&fontSize=40&fontColor=EE4E34)
 
   Hi! I'm JeoungEun,🐰  <br>
   I want to become a more growing developer!☘️
