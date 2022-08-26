@@ -17,8 +17,8 @@ Here are some ideas to get you started:
   
 ![header](https://capsule-render.vercel.app/api?type=wave&color=FCEDDA&height=200&section=header&text=𝐷é𝑣𝑒𝑙𝑜𝑝𝑝𝑒𝑢𝑟%20𝑒𝑛%20𝑐𝑟𝑜𝑖𝑠𝑠𝑎𝑛𝑐𝑒&animation=twinkling&fontSize=40&fontColor=EE4E34)
 
-  Hi! I'm JeoungEun,🐰  <br>
-  I want to become a more growing developer!☘️
+  𝙷𝚒! 𝙸'𝚖 𝙹𝚎𝚘𝚞𝚗𝚐𝙴𝚞𝚗,🐰  <br>
+  𝙸 𝚠𝚊𝚗𝚝 𝚝𝚘 𝚋𝚎𝚌𝚘𝚖𝚎 𝚊 𝚖𝚘𝚛𝚎 𝚐𝚛𝚘𝚠𝚒𝚗𝚐 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛!☘️
   
 ## ✨Technology Stack✨
 
