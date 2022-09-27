@@ -56,7 +56,7 @@ Flutter
 ### 🌹 ＣＯＮＴＡＣＴ 🌹
 <!--  깃 블로그, 구글, 캐글, 데이콘 -->
 [![GitBlog](https://img.shields.io/badge/Blog-222222?style=flat-square&logo=GitHub&logoColor=white)](https://monargent0.github.io/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](owjddms1118@gmail.com)
+![Gmail](https://img.shields.io/badge/owjddms1118@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)
 
 <!--  git 사용 현황 , 백준, 사용언어 요약 -->
 ### 🍀 ＳＴＡＴＳ ＴＡＢＬＥ 🍀
