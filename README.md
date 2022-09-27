@@ -25,11 +25,14 @@ Here are some ideas to get you started:
   
   <br><br><br>
   
-<!--  나는 분석과 머신러닝 개발에 흥미를 가지고 있다. 앱 개발에 재미를 느낀다. 실력있는 머신러닝 개발자가 되는것이 목표다  -->
+  이제 세상에 첫 발을 내딛는 주니어 개발자 입니다. 
+  머신러닝, 딥러닝, 앱 개발에 재미를 느끼고 더 많이 배우고 싶은 욕심이 있습니다.
+  10년 후에도 새로운 언어를 배우고 취미로 앱을 출시하며 나만의 분석 모델, 알고리즘이 있는 개발자가 되어 현업에서 뛰고 있는것이 목표입니다!
+  
   ---
   
 <!-- 기술 리스트 -->
-### ✨ ＴＥＣＨＮＯＬＯＧＹ ＳＴＡＣＫ ✨
+#### ✨ ＴＥＣＨＮＯＬＯＧＹ ＳＴＡＣＫ ✨
 <!--  자신 있음  -->
   
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) 
@@ -65,7 +68,7 @@ Here are some ideas to get you started:
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white)
 
 <!-- 사용 가능 협업 툴 -->
-##### Colaboration Tools
+###### Colaboration Tools
 <!--  피그마, 구글스프레드, 구글코랩   -->
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white)
 ![GoogleSheets](https://img.shields.io/badge/GoogleSheets-34A853?style=flat-square&logo=GoogleSheets&logoColor=white)
@@ -74,7 +77,7 @@ Here are some ideas to get you started:
 <br>
   
 <!-- 연락 수단  -->
-### 🌹 ＣＯＮＴＡＣＴ 🌹
+#### 🌹 ＣＯＮＴＡＣＴ 🌹
 <!--  깃 블로그, 구글 메일, (노션, 캐글, 데이콘, 백준, 링크드인?) -->
 [![GitBlog](https://img.shields.io/badge/Blog-222222?style=flat&logo=GitHub&logoColor=white)](https://monargent0.github.io/)
 [![Naver](https://img.shields.io/badge/Naver%20Mail-03C75A?style=flat&logo=Naver&logoColor=white)](mailto:oju2513@naver.com)
@@ -83,7 +86,7 @@ Here are some ideas to get you started:
 <br>
   
 <!-- 사용언어 요약, #백준 등급, git 사용 현황 -->
-### 🍀 ＳＴＡＴＳ ＴＡＢＬＥ 🍀
+#### 🍀 ＳＴＡＴＳ ＴＡＢＬＥ 🍀
 <!-- [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=owjddms96)](https://solved.ac/owjddms96)    -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monargent0&layout=compact&theme=calm)
