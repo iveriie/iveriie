@@ -20,6 +20,9 @@ Here are some ideas to get you started:
   𝙷𝚒! 𝙸'𝚖 𝙹𝚎𝚘𝚞𝚗𝚐𝙴𝚞𝚗,🐰  <br>
   𝙸 𝚠𝚊𝚗𝚝 𝚝𝚘 𝚋𝚎𝚌𝚘𝚖𝚎 𝚊 𝚖𝚘𝚛𝚎 𝚐𝚛𝚘𝚠𝚒𝚗𝚐 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛!☘️
   
+sᴛᴀᴛs ᴛᴀʙʟᴇ : <br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=monargent0&show_icons=true&theme=dracula) <!--커밋을 얼마나 했는가-->
+
 ## ✨Technology Stack✨
 
   
