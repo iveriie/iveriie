@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   𝙸 𝚠𝚊𝚗𝚝 𝚝𝚘 𝚋𝚎𝚌𝚘𝚖𝚎 𝚊 𝚖𝚘𝚛𝚎 𝚐𝚛𝚘𝚠𝚒𝚗𝚐 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛!☘️
   
 <!-- 기술 리스트 -->
-### ✨ＴＥＣＨＮＯＬＯＧＹ ＳＴＡＣＫ✨
+### ✨ ＴＥＣＨＮＯＬＯＧＹ ＳＴＡＣＫ ✨
 <!-- 
 - 언어
 Java
@@ -46,14 +46,20 @@ Tensorflow
 Workbench
 Flutter
 -->
-
-<!-- 연락 수단 (협업툴로 바꿀까?)   -->
-### 🌹Contact🌹
-<!--  깃 블로그, 구글, 피그마, 노션, 캐글, 데이콘, 인스타?  -->
-
+  
+<!-- 사용 가능 협업 툴 -->
+### 🌹 ＣＯＮＴＡＣＴ 🌹
+<!--  피그마, 노션, 구글스프레드   -->
+  
+  
+<!-- 연락 수단   -->
+### 🌹 ＣＯＮＴＡＣＴ 🌹
+<!--  깃 블로그, 구글, 캐글, 데이콘 -->
+[![GitBlog](https://img.shields.io/badge/Blog-222222?style=flat-square&logo=GitHub&logoColor=white)](https://monargent0.github.io/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](owjddms1118@gmail.com)
 
 <!--  git 사용 현황 , 백준, 사용언어 요약 -->
-### 🍀ＳＴＡＴＳ ＴＡＢＬＥ🍀
+### 🍀 ＳＴＡＴＳ ＴＡＢＬＥ 🍀
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monargent0&layout=compact&theme=calm)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=owjddms96)](https://solved.ac/owjddms96)  
