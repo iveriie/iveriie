@@ -24,11 +24,33 @@ Here are some ideas to get you started:
   𝙸 𝚠𝚊𝚗𝚝 𝚝𝚘 𝚋𝚎𝚌𝚘𝚖𝚎 𝚊 𝚖𝚘𝚛𝚎 𝚐𝚛𝚘𝚠𝚒𝚗𝚐 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛!☘️
   
 <!-- 기술 리스트 -->
-### ✨Ｔｅｃｈｎｏｌｏｇｙ Ｓｔａｃｋ✨
+### ✨ＴＥＣＨＮＯＬＯＧＹ ＳＴＡＣＫ✨
+<!-- 
+- 언어
+Java
+JavScript
+JSP
+HTML
+R
+Python
+Swift
+Dart
+- back
+Spring
+Flask
+- DB
+MySQL
+- Data
+Tensorflow
+- GUI
+Workbench
+Flutter
+-->
 
 <!-- 연락 수단 (협업툴로 바꿀까?)   -->
 ### 🌹Contact🌹
-메일, 인스타, 
+<!--  깃 블로그, 구글, 피그마, 노션, 캐글, 데이콘, 인스타?  -->
+
 
 <!--  git 사용 현황 , 백준, 사용언어 요약 -->
 ### 🍀ＳＴＡＴＳ ＴＡＢＬＥ🍀
