@@ -92,7 +92,7 @@ Here are some ideas to get you started:
 <!-- [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=owjddms96)](https://solved.ac/owjddms96)    -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monargent0&layout=compact&theme=calm)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=monargent0&show_icons=true&theme=slateorange)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=monargent0&show_icons=true&theme=slateorange&hide=issues,contribs)
 
 <!-- 방문자 수 2022.9 사용하지 않음 -->
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmonargent0%2Fmonargent0&count_bg=%2395D7DB&title_bg=%23403E4B&icon=github.svg&icon_color=%23DBDADA&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
