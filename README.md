@@ -23,9 +23,12 @@ Here are some ideas to get you started:
   𝙷𝚒! 𝙸'𝚖 𝙹𝚎𝚘𝚞𝚗𝚐𝙴𝚞𝚗,🐰  <br>
   𝙸 𝚠𝚊𝚗𝚝 𝚝𝚘 𝚋𝚎𝚌𝚘𝚖𝚎 𝚊 𝚖𝚘𝚛𝚎 𝚐𝚛𝚘𝚠𝚒𝚗𝚐 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛!☘️
   
+  <br><br><br>
+  ---
+  
 <!-- 기술 리스트 -->
 ### ✨ ＴＥＣＨＮＯＬＯＧＹ ＳＴＡＣＫ ✨
-  ! 한번이라도 사용함
+  한번이라도 사용한 기술 구분?
 
 ##### Languges
 <!-- 
@@ -46,21 +49,25 @@ MySQL
 - Data
 Tensorflow
 -->
-
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+  
 ##### Tools
-<!-- 깃 깃허브 데스크탑, vscode, 워크벤치, Xcode, 스프링, 이클립스, Flutter (IDE) -->
+<!-- 깃, Flutter, 워크벤치, 스프링, /IDE vscode, Xcode,  이클립스, 아나콘다, STS  -->
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![VScode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white)
-![WorkBench](https://img.shields.io/badge/WorkBench-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=EclipseIDE&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=EclipseIDE&logoColor=white)
+![WorkBench](https://img.shields.io/badge/WorkBench-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+
   
 <!-- 사용 가능 협업 툴 -->
 ##### Colaboration Tools 
-<!--  피그마, 노션, 구글스프레드   -->
-
+<!--  피그마, 구글스프레드, 구글코랩   -->
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white)
+![GoogleSheets](https://img.shields.io/badge/GoogleSheets-34A853?style=flat-square&logo=GoogleSheets&logoColor=white)
+![GoogleColab](https://img.shields.io/badge/GoogleColab-F9AB00?style=flat-square&logo=GoogleColab&logoColor=white)
   
 <!-- 연락 수단  -->
 ### 🌹 ＣＯＮＴＡＣＴ 🌹
@@ -68,6 +75,9 @@ Tensorflow
 [![GitBlog](https://img.shields.io/badge/Blog-222222?style=flat-square&logo=GitHub&logoColor=white)](https://monargent0.github.io/)
 ![Gmail](https://img.shields.io/badge/owjddms1118@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)
 
+<!-- 보류 List -->
+<!-- ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white) -->
+  
 <!-- 사용언어 요약, 백준 등급, git 사용 현황 -->
 ### 🍀 ＳＴＡＴＳ ＴＡＢＬＥ 🍀
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monargent0&layout=compact&theme=calm)
