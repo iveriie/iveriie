@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ### ✨ ＴＥＣＨＮＯＬＯＧＹ ＳＴＡＣＫ ✨
 <!--  자신 있음  -->
   
-![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) 
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white) 
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white) 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white) 
@@ -67,18 +67,18 @@ Here are some ideas to get you started:
 <!-- 사용 가능 협업 툴 -->
 ##### Colaboration Tools
 <!--  피그마, 구글스프레드, 구글코랩   -->
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white)
-![GoogleSheets](https://img.shields.io/badge/GoogleSheets-34A853?style=flat&logo=GoogleSheets&logoColor=white)
-![GoogleColab](https://img.shields.io/badge/GoogleColab-F9AB00?style=flat&logo=GoogleColab&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white)
+![GoogleSheets](https://img.shields.io/badge/GoogleSheets-34A853?style=flat-square&logo=GoogleSheets&logoColor=white)
+![GoogleColab](https://img.shields.io/badge/GoogleColab-F9AB00?style=flat-square&logo=GoogleColab&logoColor=white)
   
 <br>
   
 <!-- 연락 수단  -->
 ### 🌹 ＣＯＮＴＡＣＴ 🌹
 <!--  깃 블로그, 구글 메일, (노션, 캐글, 데이콘, 백준, 링크드인?) -->
-[![GitBlog](https://img.shields.io/badge/Blog-222222?style=plastic&logo=GitHub&logoColor=white)](https://monargent0.github.io/)
-[![Naver](https://img.shields.io/badge/Naver%20Mail-03C75A?style=plastic&logo=Naver&logoColor=white)](mailto:oju2513@naver.com)
-<!-- [![Notion](https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white)](노션프로필링크) -->
+[![GitBlog](https://img.shields.io/badge/Blog-222222?style=flat&logo=GitHub&logoColor=white)](https://monargent0.github.io/)
+[![Naver](https://img.shields.io/badge/Naver%20Mail-03C75A?style=flat&logo=Naver&logoColor=white)](mailto:oju2513@naver.com)
+<!-- [![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white)](노션프로필링크) -->
  
 <br>
   
