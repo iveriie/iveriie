@@ -38,8 +38,6 @@ Here are some ideas to get you started:
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) 
-
-<br>
   
 <!-- 사용해봤음 -->
   
@@ -50,15 +48,13 @@ Here are some ideas to get you started:
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white) 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white) 
-
-<br>
   
 <!-- 서버 외  -->
   
-![ApacheTomcat](https://img.shields.io/badge/ApacheTomcat-F8DC75?style=flat-square&logo=ApacheTomcat&logoColor=white) 
+![ApacheTomcat](https://img.shields.io/badge/ApacheTomcat-F8DC75?style=flat-square&logo=ApacheTomcat&logoColor=black) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white) 
 
-<br>
+<!-- 사용 프로그램  -->
 <!-- 깃허브, Flutter, 스프링, 아나콘다 /GUI 워크벤치 /IDE vscode, Xcode, 이클립스, STS  -->
   
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
@@ -75,15 +71,15 @@ Here are some ideas to get you started:
 ![GoogleSheets](https://img.shields.io/badge/GoogleSheets-34A853?style=flat&logo=GoogleSheets&logoColor=white)
 ![GoogleColab](https://img.shields.io/badge/GoogleColab-F9AB00?style=flat&logo=GoogleColab&logoColor=white)
   
+<br>
 <!-- 연락 수단  -->
 ### 🌹 ＣＯＮＴＡＣＴ 🌹
 <!--  깃 블로그, 구글 메일, (노션, 캐글, 데이콘, 백준, 링크드인?) -->
 [![GitBlog](https://img.shields.io/badge/Blog-222222?style=plastic&logo=GitHub&logoColor=white)](https://monargent0.github.io/)
 [![Naver](https://img.shields.io/badge/Naver%20Mail-03C75A?style=plastic&logo=Naver&logoColor=white)](mailto:oju2513@naver.com)
 <!-- [![Notion](https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white)](노션프로필링크) -->
-  
-<!-- 보류 List -->
-  
+ 
+<br>
 <!-- 사용언어 요약, #백준 등급, git 사용 현황 -->
 ### 🍀 ＳＴＡＴＳ ＴＡＢＬＥ 🍀
 <!-- [![Solved.ac
