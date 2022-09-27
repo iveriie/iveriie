@@ -72,8 +72,8 @@ Here are some ideas to get you started:
 ![GoogleColab](https://img.shields.io/badge/GoogleColab-F9AB00?style=flat&logo=GoogleColab&logoColor=white)
   
 <br>
-<!-- 연락 수단  -->
   
+<!-- 연락 수단  -->
 ### 🌹 ＣＯＮＴＡＣＴ 🌹
 <!--  깃 블로그, 구글 메일, (노션, 캐글, 데이콘, 백준, 링크드인?) -->
 [![GitBlog](https://img.shields.io/badge/Blog-222222?style=plastic&logo=GitHub&logoColor=white)](https://monargent0.github.io/)
@@ -81,6 +81,7 @@ Here are some ideas to get you started:
 <!-- [![Notion](https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white)](노션프로필링크) -->
  
 <br>
+  
 <!-- 사용언어 요약, #백준 등급, git 사용 현황 -->
 ### 🍀 ＳＴＡＴＳ ＴＡＢＬＥ 🍀
 <!-- [![Solved.ac
