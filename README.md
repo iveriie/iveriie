@@ -1,4 +1,4 @@
-<!--
+<!-- 기본 생성 part
 **monargent0/monargent0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,20 +14,24 @@ Here are some ideas to get you started:
 -->
 
 <div align = center>
-  
+<!-- 헤더 (물결모양, 문구 etc) -->
 ![header](https://capsule-render.vercel.app/api?type=wave&color=FCEDDA&height=200&section=header&text=𝐷é𝑣𝑒𝑙𝑜𝑝𝑝𝑒𝑢𝑟%20𝑒𝑛%20𝑐𝑟𝑜𝑖𝑠𝑠𝑎𝑛𝑐𝑒&animation=twinkling&fontSize=40&fontColor=EE4E34)
 
+<!-- 인사말  -->
   𝙷𝚒! 𝙸'𝚖 𝙹𝚎𝚘𝚞𝚗𝚐𝙴𝚞𝚗,🐰  <br>
   𝙸 𝚠𝚊𝚗𝚝 𝚝𝚘 𝚋𝚎𝚌𝚘𝚖𝚎 𝚊 𝚖𝚘𝚛𝚎 𝚐𝚛𝚘𝚠𝚒𝚗𝚐 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛!☘️
   
-sᴛᴀᴛs ᴛᴀʙʟᴇ : <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=monargent0&show_icons=true&theme=dracula) <!--커밋을 얼마나 했는가-->
-
+<!-- 기술 리스트 -->
 ## ✨Technology Stack✨
 
-  
+<!-- 연락 수단 (협업툴로 바꿀까?)   -->
 ## 🌹Contact🌹
 메일, 인스타, 
+
+<!--  git 사용 현황  -->
+sᴛᴀᴛs ᴛᴀʙʟᴇ : <br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=monargent0&show_icons=true&theme=flag-india)
+
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmonargent0%2Fmonargent0&count_bg=%2395D7DB&title_bg=%23403E4B&icon=github.svg&icon_color=%23DBDADA&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
