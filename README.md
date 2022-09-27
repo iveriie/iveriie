@@ -73,6 +73,7 @@ Here are some ideas to get you started:
   
 <br>
 <!-- 연락 수단  -->
+  
 ### 🌹 ＣＯＮＴＡＣＴ 🌹
 <!--  깃 블로그, 구글 메일, (노션, 캐글, 데이콘, 백준, 링크드인?) -->
 [![GitBlog](https://img.shields.io/badge/Blog-222222?style=plastic&logo=GitHub&logoColor=white)](https://monargent0.github.io/)
