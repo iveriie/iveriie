@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <!--  git 사용 현황  -->
 sᴛᴀᴛs ᴛᴀʙʟᴇ : <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monargent0&layout=compact&theme=flag-india) 
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sqkeka1)](https://solved.ac/sqkeka1/owjddms96) <!--백준 계정있으면 하면 됨-->
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=owjddms96)](https://solved.ac/owjddms96/) <!--백준 계정있으면 하면 됨-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=monargent0&show_icons=true&theme=flag-india)
 
   
