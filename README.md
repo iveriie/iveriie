@@ -24,14 +24,14 @@ Here are some ideas to get you started:
   𝙸 𝚠𝚊𝚗𝚝 𝚝𝚘 𝚋𝚎𝚌𝚘𝚖𝚎 𝚊 𝚖𝚘𝚛𝚎 𝚐𝚛𝚘𝚠𝚒𝚗𝚐 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛!☘️
   
 <!-- 기술 리스트 -->
-## ✨Ｔｅｃｈｎｏｌｏｇｙ Ｓｔａｃｋ✨
+### ✨Ｔｅｃｈｎｏｌｏｇｙ Ｓｔａｃｋ✨
 
 <!-- 연락 수단 (협업툴로 바꿀까?)   -->
-## 🌹Contact🌹
+### 🌹Contact🌹
 메일, 인스타, 
 
 <!--  git 사용 현황  -->
-## ＳＴＡＴＳ ＴＡＢＬＥ
+### ＳＴＡＴＳ ＴＡＢＬＥ
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monargent0&layout=compact&theme=calm) 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=owjddms96)](https://solved.ac/owjddms96/)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=monargent0&show_icons=true&theme=slateorange)
