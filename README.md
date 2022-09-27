@@ -54,8 +54,8 @@ Flutter
 
 <!--  git 사용 현황 , 백준, 사용언어 요약 -->
 ### 🍀ＳＴＡＴＳ ＴＡＢＬＥ🍀
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monargent0&layout=compact&theme=calm) 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=owjddms96)](https://solved.ac/owjddms96/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monargent0&layout=compact&theme=calm)  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=owjddms96)](https://solved.ac/owjddms96/)  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=monargent0&show_icons=true&theme=slateorange)
 
 <!-- 방문자 수  -->
