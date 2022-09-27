@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ##### Languges
 <!--   분석 언어 -->
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white)
 <br>
@@ -76,16 +76,15 @@ Here are some ideas to get you started:
 <!--  깃 블로그, 구글 메일, (노션, 캐글, 데이콘, 백준, 링크드인?) -->
 [![GitBlog](https://img.shields.io/badge/Blog-222222?style=flat-square&logo=GitHub&logoColor=white)](https://monargent0.github.io/)
 ![Gmail](https://img.shields.io/badge/owjddms1118@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)
-
-<!-- 보류 List -->
-<!-- ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white) -->
-<!-- ![JSP](https://img.shields.io/badge/JSP-F24E1E?style=flat-square&logo=JSP&logoColor=white) -->
+<!-- [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](노션프로필링크) -->
   
-<!-- 사용언어 요약, 백준 등급, git 사용 현황 -->
+<!-- 보류 List -->
+  
+<!-- 사용언어 요약, #백준 등급, git 사용 현황 -->
 ### 🍀 ＳＴＡＴＳ ＴＡＢＬＥ 🍀
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monargent0&layout=compact&theme=calm)
 <!-- [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=owjddms96)](https://solved.ac/owjddms96)    -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monargent0&layout=compact&theme=calm)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=monargent0&show_icons=true&theme=slateorange)
 
 <!-- 방문자 수 2022.9 사용하지 않음 -->
