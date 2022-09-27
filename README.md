@@ -67,16 +67,16 @@ Here are some ideas to get you started:
 <!-- 사용 가능 협업 툴 -->
 ##### Colaboration Tools
 <!--  피그마, 구글스프레드, 구글코랩   -->
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white)
-![GoogleSheets](https://img.shields.io/badge/GoogleSheets-34A853?style=flat-square&logo=GoogleSheets&logoColor=white)
-![GoogleColab](https://img.shields.io/badge/GoogleColab-F9AB00?style=flat-square&logo=GoogleColab&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white)
+![GoogleSheets](https://img.shields.io/badge/GoogleSheets-34A853?style=flat&logo=GoogleSheets&logoColor=white)
+![GoogleColab](https://img.shields.io/badge/GoogleColab-F9AB00?style=flat&logo=GoogleColab&logoColor=white)
   
 <!-- 연락 수단  -->
 ### 🌹 ＣＯＮＴＡＣＴ 🌹
 <!--  깃 블로그, 구글 메일, (노션, 캐글, 데이콘, 백준, 링크드인?) -->
-[![GitBlog](https://img.shields.io/badge/Blog-222222?style=flat-square&logo=GitHub&logoColor=white)](https://monargent0.github.io/)
-![Gmail](https://img.shields.io/badge/owjddms1118@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)
-<!-- [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](노션프로필링크) -->
+[![GitBlog](https://img.shields.io/badge/Blog-222222?style=plastic&logo=GitHub&logoColor=white)](https://monargent0.github.io/)
+![Gmail](https://img.shields.io/badge/owjddms1118@gmail.com-EA4335?style=plastic&logo=Gmail&logoColor=white)
+<!-- [![Notion](https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white)](노션프로필링크) -->
   
 <!-- 보류 List -->
   
