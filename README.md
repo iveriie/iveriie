@@ -62,7 +62,6 @@ Here are some ideas to get you started:
 <!-- 사용 프로그램  -->
 <!-- 깃허브, Flutter, 스프링, 아나콘다 /GUI 워크벤치 /IDE vscode, Xcode, 이클립스, STS  -->
   
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
 ![VScode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=EclipseIDE&logoColor=white)
@@ -72,9 +71,10 @@ Here are some ideas to get you started:
 <!-- 사용 가능 협업 툴 -->
 ###### Colaboration Tools
 <!--  피그마, 구글스프레드, 구글코랩   -->
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
 ![GoogleSheets](https://img.shields.io/badge/GoogleSheets-34A853?style=flat-square&logo=GoogleSheets&logoColor=white)
 ![GoogleColab](https://img.shields.io/badge/GoogleColab-F9AB00?style=flat-square&logo=GoogleColab&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white)
   
 <br>
   
