@@ -81,7 +81,8 @@ Here are some ideas to get you started:
 <!-- 연락 수단  -->
 #### 🌹 ＣＯＮＴＡＣＴ 🌹
 <!--  깃 블로그, 구글 메일, (노션, 캐글, 데이콘, 백준, 링크드인?) -->
-[![GitBlog](https://img.shields.io/badge/Blog-222222?style=flat&logo=GitHub&logoColor=white)](<a href="https://monargent0.github.io/" target="_blank">)
+[![GitBlog](https://img.shields.io/badge/Blog-222222?style=flat&logo=GitHub&logoColor=white)](https://monargent0.github.io/){: target="_blank"}
+<a href="https://monargent0.github.io/" target="_blank">![GitBlog](https://img.shields.io/badge/Blog-222222?style=flat&logo=GitHub&logoColor=white)</a>
 [![Naver](https://img.shields.io/badge/Naver%20Mail-03C75A?style=flat&logo=Naver&logoColor=white)](mailto:oju2513@naver.com)
 <!-- [![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white)](노션프로필링크) -->
 <!--  (https://monargent0.github.io/) -->
