@@ -16,23 +16,13 @@ Here are some ideas to get you started:
 <div align = center>
 
 <!-- 헤더 (물결모양, 문구 etc) -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=FCEDDA&height=200&section=header&text=𝐷é𝑣𝑒𝑙𝑜𝑝𝑝𝑒𝑢𝑟%20𝑒𝑛%20𝑐𝑟𝑜𝑖𝑠𝑠𝑎𝑛𝑐𝑒&animation=twinkling&fontSize=40&fontColor=EE4E34)
-  
+![header](https://capsule-render.vercel.app/api?type=wave&color=FCEDDA&height=200&section=header&text=𝐷é𝑣𝑒𝑙𝑜𝑝𝑝𝑒𝑢𝑟%20&animation=twinkling&fontSize=40&fontColor=EE4E34)
 
 <!-- 인사말  -->
   𝙷𝚒! 𝙸'𝚖 𝙹𝚎𝚘𝚞𝚗𝚐𝙴𝚞𝚗,🐰  <br>
   𝙸 𝚠𝚊𝚗𝚝 𝚝𝚘 𝚋𝚎𝚌𝚘𝚖𝚎 𝚊 𝚖𝚘𝚛𝚎 𝚐𝚛𝚘𝚠𝚒𝚗𝚐 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛!☘️
-  
   <br>
-  
-  > 이제 세상에 첫 발을 내딛는 주니어 개발자 입니다.   
-  > 앱 개발, 머신러닝, 딥러닝에 재미를 느끼고 더 많이 배우고 싶은 욕심이 있습니다.  
-  > 10년 후에도 새로운 언어를 배우고 앱을 출시하며 나만의 분석 모델, 알고리즘이 있는 개발자가 되어 현업에서 뛰고 있는것이 목표입니다!  
-  
-  <br><br>
-  
   ---
-  
 <!-- 기술 리스트 -->
 #### ✨ ＴＥＣＨＮＯＬＯＧＹ ＳＴＡＣＫ ✨
 <!--  자신 있음  -->
@@ -81,7 +71,7 @@ Here are some ideas to get you started:
 <!-- 연락 수단  -->
 #### 🌹 ＣＯＮＴＡＣＴ 🌹
 <!--  깃 블로그, 구글 메일, (노션, 캐글, 데이콘, 백준, 링크드인?) -->
-[![GitBlog](https://img.shields.io/badge/Blog-222222?style=flat&logo=GitHub&logoColor=white)](https://monargent0.github.io/)
+[![GitBlog](https://img.shields.io/badge/Blog-222222?style=flat&logo=GitHub&logoColor=white)](https://iveriie.github.io/)
 [![Naver](https://img.shields.io/badge/Naver%20Mail-03C75A?style=flat&logo=Naver&logoColor=white)](mailto:oju2513@naver.com)
 <!-- [![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white)](노션프로필링크) -->
   
