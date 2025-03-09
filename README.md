@@ -1,8 +1,6 @@
 <!-- 기본 생성 part
 **monargent0/monargent0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -11,18 +9,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+𝙸 𝚠𝚊𝚗𝚝 𝚝𝚘 𝚋𝚎𝚌𝚘𝚖𝚎 𝚊 𝚖𝚘𝚛𝚎 𝚐𝚛𝚘𝚠𝚒𝚗𝚐 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛!☘️
 -->
 
 <div align = center>
 
-<!-- 헤더 (물결모양, 문구 etc) -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=FCEDDA&height=200&section=header&text=𝐷é𝑣𝑒𝑙𝑜𝑝𝑝𝑒𝑢𝑟%20&animation=twinkling&fontSize=40&fontColor=EE4E34)
+<!-- 헤더 -->
+![header](https://capsule-render.vercel.app/api?type=speech&color=gradient&height=150&section=header&animation=blinking&text=Hi!%20&fontSize=35&fontAlign=25&fontAlignY=30&desc=I%27m%20JeongEun&descSize=40&descAlign=65&descAlignY=50&customColorList=0,1,3,12,14,15,18,19,20,21,22,23,25,27,28,30)
 
-<!-- 인사말  -->
-  𝙷𝚒! 𝙸'𝚖 𝙹𝚎𝚘𝚞𝚗𝚐𝙴𝚞𝚗,🐰  <br>
-  𝙸 𝚠𝚊𝚗𝚝 𝚝𝚘 𝚋𝚎𝚌𝚘𝚖𝚎 𝚊 𝚖𝚘𝚛𝚎 𝚐𝚛𝚘𝚠𝚒𝚗𝚐 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛!☘️
-  <br>
-  ---
 <!-- 기술 리스트 -->
 #### ✨ ＴＥＣＨＮＯＬＯＧＹ ＳＴＡＣＫ ✨
 <!--  자신 있음  -->
@@ -82,19 +76,12 @@ Here are some ideas to get you started:
 #### 🍀 ＳＴＡＴＳ ＴＡＢＬＥ 🍀
 <!-- [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=owjddms96)](https://solved.ac/owjddms96)    -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iveriie&layout=compact&theme=calm)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iveriie&show_icons=true&theme=slateorange&hide=issues,contribs)
-<!-- 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=monargent0&show_icons=true&theme=slateorange&hide=issues,contribs" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monargent0&layout=compact&theme=calm" />
-</a> -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iveriie&layout=compact&theme=discord_old_blurple)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iveriie&show_icons=true&theme=discord_old_blurple&hide=issues,contribs)
 
 <!-- 방문자 수 2022.9 사용하지 않음 -->
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmonargent0%2Fmonargent0&count_bg=%2395D7DB&title_bg=%23403E4B&icon=github.svg&icon_color=%23DBDADA&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
 
 <!-- footer 풋터  -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=EE4E34&height=100&section=footer)
+![header](https://capsule-render.vercel.app/api?type=waving&color=EE4E34&height=50&section=footer)
 </div>
